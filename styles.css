@@ -35,7 +35,7 @@ opacity: 1;
 background: linear-gradient(308deg,#0b0930,#0b0930,#2c2a89,#453aa4,#5c49c6,#7b6fde);
 
 background-size: 360% 360%;
-animation: gradient-animation 36s ease infinite;
+animation: gradient-animation 25s ease infinite;
 
 }
 
@@ -61,7 +61,7 @@ width: 100%;
 background: linear-gradient(60deg,#0b0930,#0b0930,#2c2a89,#453aa4,#5c49c6,#7b6fde);
 
 background-size: 360% 360%;
-animation: gradient-animation 36s ease infinite;
+animation: gradient-animation 25s ease infinite;
 padding: 15px;
 background-color: #0B0930;
 color: #f8f9fa;
